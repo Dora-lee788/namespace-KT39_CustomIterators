@@ -1,0 +1,1 @@
+# namespace KT39_CustomIterators
